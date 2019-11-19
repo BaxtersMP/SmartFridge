@@ -1,5 +1,5 @@
 from data_class.sql_text_input import *
-from db_lookup.perishable_lookup import *
+from database.perishable_lookup import *
 
 
 class Food:
